@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4859d231bb5f0c6f",
+        "id": "d86aa4facf319cde",
         "type": "tabs",
         "children": [
           {
-            "id": "c501c4ba82eeaadf",
+            "id": "d5dabe96e87cee81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Project Overview.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Project Overview"
             }
           }
         ]
@@ -175,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c501c4ba82eeaadf",
+  "active": "d5dabe96e87cee81",
   "lastOpenFiles": [
     "Strategies/Project Overview Template.md",
     "Projects/RPG Manager/Project Overview.md",
