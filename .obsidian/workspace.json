@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Project Overview"
             }
+          },
+          {
+            "id": "9effe5bc217effc6",
+            "type": "leaf",
+            "state": {
+              "type": "base-manager-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Base Manager View"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +188,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "sample-plugin:Sample Plugin": false
+      "sample-plugin:Sample Plugin": false,
+      "rpg-master:Sample Plugin": false
     }
   },
-  "active": "b7c176882f08360a",
+  "active": "9effe5bc217effc6",
   "lastOpenFiles": [
     "package-lock.json",
     "node_modules/@esbuild/win32-x64/esbuild.exe",
