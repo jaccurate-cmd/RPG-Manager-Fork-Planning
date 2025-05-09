@@ -1,5 +1,8 @@
 [
   "obsidian-underline",
   "obsidian-git",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "rpg-master",
+  "hot-reload",
+  "obsidian-doubleshift"
 ]
