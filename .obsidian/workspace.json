@@ -8,31 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5dabe96e87cee81",
+            "id": "f1ec7c470f51a823",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project Overview"
-            }
-          },
-          {
-            "id": "9effe5bc217effc6",
-            "type": "leaf",
-            "state": {
-              "type": "base-manager-view",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Base Manager View"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,9 +156,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e1a0f31b40c726ed",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {},
+              "icon": "d20",
+              "title": "RPG Manager"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -188,12 +183,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "sample-plugin:Sample Plugin": false,
-      "rpg-master:Sample Plugin": false
+      "rpg-manager:RPG Manager": false
     }
   },
-  "active": "9effe5bc217effc6",
+  "active": "e1a0f31b40c726ed",
   "lastOpenFiles": [
+    "Test/Test1.md",
+    "Test/Test.md",
+    "Project Overview.md",
+    "Test",
     "package-lock.json",
     "node_modules/@esbuild/win32-x64/esbuild.exe",
     "node_modules/@esbuild/win32-x64",
@@ -203,8 +201,6 @@
     "node_modules/typescript/lib/lib.es2021.intl.d.ts",
     "node_modules/typescript/lib/lib.es2021.full.d.ts",
     "node_modules/typescript/lib/lib.es2021.d.ts",
-    "node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
-    "node_modules/typescript/lib/lib.es2020.string.d.ts",
     "node_modules/typescript/lib/README.md",
     "node_modules/svelte/LICENSE.md",
     "node_modules/svelte/README.md",
@@ -227,8 +223,6 @@
     "node_modules/esbuild-svelte/README.md",
     "node_modules/esbuild-svelte/CHANGELOG.md",
     "node_modules/aria-query/README.md",
-    "node_modules/picocolors/README.md",
-    "node_modules/mri/license.md",
-    "node_modules/@types/estree/README.md"
+    "node_modules/picocolors/README.md"
   ]
 }
