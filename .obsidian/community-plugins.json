@@ -1,9 +1,10 @@
 [
   "obsidian-underline",
-  "obsidian-git",
   "obsidian-latex-suite",
   "hot-reload",
   "obsidian-doubleshift",
   "obsidian-auto-link-title",
-  "rpg-manager"
+  "rpg-manager",
+  "rpg-master",
+  "obsidian-git"
 ]
